@@ -3,7 +3,7 @@
     flex-wrap: wrap;
     width: 560px;
     height: 560px;
-    border: solid burlywood;
+    border: solid black;
 }
 
 .grid div {
@@ -12,17 +12,22 @@
 }
 
 .pac-dot{
-    background-color:green;
-    border: 5px solid whitesmoke
+    background-color: lightskyblue;
+    border: 5px solid rgb(255, 255, 255)
     box-sizing: border-box;
 }
 
 .wall {
-    background-color: orchid;
+    background-color: pink;
 }
 
 .power-pellet {
-    background-color: green;
+    background-color: black;
     border-radius: 10px;
-} 
+}
+
+.pac-man {
+    background-color: yellow;
+    border-radius: 10px;
+}
 
